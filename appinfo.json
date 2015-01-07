@@ -1,0 +1,40 @@
+{
+    "appKeys": {
+        "BLACK_ON_WHITE": 8,
+        "HALF_HOUR_BELLS": 5,
+        "HOUR_BELLS_FROM": 3,
+        "HOUR_BELLS_TO": 4,
+        "KEY_CONDITIONS": 1,
+        "KEY_LOCATION": 2,
+        "KEY_TEMPERATURE": 0,
+        "QUARTER_HOUR_BELLS": 6
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "jasonmfarrow.com",
+    "longName": "Ships Bells",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ShipsBells_b.png",
+                "name": "SHIPS_BELLS_BGB",
+                "type": "png"
+            },
+            {
+                "file": "images/ShipsBells.png",
+                "name": "SHIPS_BELLS_BG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Ships Bells",
+    "uuid": "6de79511-22e0-42cd-8663-b4b27fa055e8",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
